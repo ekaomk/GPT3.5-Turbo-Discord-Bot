@@ -1,6 +1,7 @@
 # ChatGPT 3.5 Turbo Discord Bot
 
 #### A Discord bot that uses the [ChatGPT 3.5 Turbo](https://huggingface.co/microsoft/DialoGPT-medium) model to generate responses to messages.
+#### using node.js typescript and discord.js
 
 ## Installation
 ```bash
